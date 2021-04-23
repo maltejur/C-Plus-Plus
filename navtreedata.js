@@ -26,10 +26,10 @@ var NAVTREE =
 [
   [ "Algorithms_in_C++", "index.html", [
     [ "The Algorithms - C++", "index.html", [
-      [ "Overview", "index.html#autotoc_md68", null ],
-      [ "Features", "index.html#autotoc_md69", null ],
-      [ "Documentation", "index.html#autotoc_md70", null ],
-      [ "Contributions", "index.html#autotoc_md71", null ]
+      [ "Overview", "index.html#autotoc_md71", null ],
+      [ "Features", "index.html#autotoc_md72", null ],
+      [ "Documentation", "index.html#autotoc_md73", null ],
+      [ "Contributions", "index.html#autotoc_md74", null ]
     ] ],
     [ "Contributor Covenant Code of Conduct", "d4/d4c/md__c_o_d_e__o_f__c_o_n_d_u_c_t.html", [
       [ "Our Pledge", "d4/d4c/md__c_o_d_e__o_f__c_o_n_d_u_c_t.html#autotoc_md4", null ],
@@ -92,7 +92,8 @@ var NAVTREE =
       [ "Namespace Members", "namespacemembers.html", [
         [ "All", "namespacemembers.html", null ],
         [ "Functions", "namespacemembers_func.html", null ],
-        [ "Variables", "namespacemembers_vars.html", null ]
+        [ "Variables", "namespacemembers_vars.html", null ],
+        [ "Typedefs", "namespacemembers_type.html", null ]
       ] ]
     ] ],
     [ "Classes", "annotated.html", [
@@ -123,18 +124,19 @@ var NAVTREE =
 
 var NAVTREEINDEX =
 [
-"annotated.html",
-"cpp/iterator/distance.html",
-"cpp/thread/lock.html",
-"d1/df3/hash__search_8cpp.html#af413b1740073db54796642b0ab814d6d",
-"d4/d48/hamming__distance_8cpp.html#a65d845df3fecff7087a2126c7b72030b",
-"d5/d91/namespacesorting.html#a9d4eb6ea3c35540d804d451f1716622d",
-"d7/d35/matrix__exponentiation_8cpp.html#a5769b745458157ef2679949155684f3b",
-"d8/dab/classstatistics_1_1stats__computer2.html#a0acea0729769f430f2dc56260d179745",
-"da/d9a/class_graph.html#a3535be2ce0d62152e54395951330da81",
-"dc/db5/struct_queue.html#a31b892ad81d0e915c20c8f6a88e75f02",
-"de/dd3/newton__raphson__method_8cpp.html#a2003b5b2dcfff0769b957ab5c968b03d",
-""
+"",
+"cpp/io/c/vfwprintf.html",
+"cpp/string/wide/iswlower.html",
+"d1/d83/classuint256__t.html#a4fdeb4d4bf8cca4ee99b8487e59831df",
+"d3/d22/saddleback__search_8cpp.html",
+"d4/de6/namespacepostfix__expression.html",
+"d6/d2c/caesar__cipher_8cpp.html#ae1a3968e7947464bee7714f6d43b7002",
+"d7/de0/stack_8h_source.html",
+"d9/d24/poisson__dist_8cpp.html#ac217ab9a06291f360d816700a6958ca8",
+"da/d9a/class_graph.html#ae4c72b8ac4d693c49800a4c7e273654f",
+"db/dc0/namespacebacktracking.html#a29360ddb1bad75caa61ec895b6e71986",
+"dd/db0/_2_users_2runner_2work_2_c-_plus-_plus_2_c-_plus-_plus_2sorting_2wiggle_sort_8cpp-example.html",
+"functions_func_q.html"
 ];
 
 var SYNCONMSG = 'click to disable panel synchronisation';
