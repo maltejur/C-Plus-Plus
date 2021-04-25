@@ -1,6 +1,5 @@
 var NAVTREEINDEX6 =
 {
-"d6/d2c/caesar__cipher_8cpp.html#ae1a3968e7947464bee7714f6d43b7002":[10,0,2,0,3],
 "d6/d2c/caesar__cipher_8cpp.html#ae66f6b31b5ad750f1fe042a706a4e3d4":[10,0,2,0,2],
 "d6/d2e/fenwick__tree_8cpp.html":[10,0,17,0],
 "d6/d2e/fenwick__tree_8cpp.html#ae66f6b31b5ad750f1fe042a706a4e3d4":[10,0,17,0,1],
@@ -143,10 +142,10 @@ var NAVTREEINDEX6 =
 "d7/d07/bidirectional__dijkstra_8cpp.html#a483bb8ccf42aaf7375a83e91490eda1e":[10,0,6,0,4],
 "d7/d07/bidirectional__dijkstra_8cpp.html#a6f92fe022b7e5d453f7257d763b6f3e2":[10,0,6,0,0],
 "d7/d07/bidirectional__dijkstra_8cpp.html#a6f92fe022b7e5d453f7257d763b6f3e2":[8,0,21,0,0],
-"d7/d07/bidirectional__dijkstra_8cpp.html#aa3848a7213562b47084585499d3642a5":[10,0,6,0,1],
 "d7/d07/bidirectional__dijkstra_8cpp.html#aa3848a7213562b47084585499d3642a5":[8,0,21,0,1],
-"d7/d07/bidirectional__dijkstra_8cpp.html#ab322409d0015c023d91c67b5b2679257":[10,0,6,0,3],
+"d7/d07/bidirectional__dijkstra_8cpp.html#aa3848a7213562b47084585499d3642a5":[10,0,6,0,1],
 "d7/d07/bidirectional__dijkstra_8cpp.html#ab322409d0015c023d91c67b5b2679257":[8,0,21,0,2],
+"d7/d07/bidirectional__dijkstra_8cpp.html#ab322409d0015c023d91c67b5b2679257":[10,0,6,0,3],
 "d7/d07/bidirectional__dijkstra_8cpp.html#ae66f6b31b5ad750f1fe042a706a4e3d4":[10,0,6,0,2],
 "d7/d0a/namespacetrie__using__hashmap.html":[8,0,75],
 "d7/d1e/graph_2dijkstra_8cpp.html":[10,0,6,6],
@@ -195,14 +194,14 @@ var NAVTREEINDEX6 =
 "d7/d75/postfix__evaluation_8cpp.html":[10,0,15,10],
 "d7/d75/postfix__evaluation_8cpp.html#a421baa2002a64bc0bfc3e1b64800d734":[10,0,15,10,4],
 "d7/d75/postfix__evaluation_8cpp.html#a421baa2002a64bc0bfc3e1b64800d734":[8,0,51,0,3],
-"d7/d75/postfix__evaluation_8cpp.html#a4c27f949c9d6659be9f5bd2ccbe1360a":[10,0,15,10,2],
 "d7/d75/postfix__evaluation_8cpp.html#a4c27f949c9d6659be9f5bd2ccbe1360a":[8,0,51,0,2],
-"d7/d75/postfix__evaluation_8cpp.html#a59fd597e0ea394abe027ced4d2ea3338":[8,0,51,0,1],
+"d7/d75/postfix__evaluation_8cpp.html#a4c27f949c9d6659be9f5bd2ccbe1360a":[10,0,15,10,2],
 "d7/d75/postfix__evaluation_8cpp.html#a59fd597e0ea394abe027ced4d2ea3338":[10,0,15,10,1],
+"d7/d75/postfix__evaluation_8cpp.html#a59fd597e0ea394abe027ced4d2ea3338":[8,0,51,0,1],
 "d7/d75/postfix__evaluation_8cpp.html#a5b97d12e8b61484f756a8721992bfae1":[10,0,15,10,8],
 "d7/d75/postfix__evaluation_8cpp.html#a6a8eeb7d346d5cd6335d9780fb7c0f15":[10,0,15,10,7],
-"d7/d75/postfix__evaluation_8cpp.html#ad77f8c9cc594975756838d498c237cea":[10,0,15,10,6],
 "d7/d75/postfix__evaluation_8cpp.html#ad77f8c9cc594975756838d498c237cea":[8,0,51,0,5],
+"d7/d75/postfix__evaluation_8cpp.html#ad77f8c9cc594975756838d498c237cea":[10,0,15,10,6],
 "d7/d75/postfix__evaluation_8cpp.html#ae38bd3a177a6d61da3859a281233bbe1":[10,0,15,10,5],
 "d7/d75/postfix__evaluation_8cpp.html#ae38bd3a177a6d61da3859a281233bbe1":[8,0,51,0,4],
 "d7/d75/postfix__evaluation_8cpp.html#ae66f6b31b5ad750f1fe042a706a4e3d4":[10,0,15,10,3],
@@ -249,5 +248,6 @@ var NAVTREEINDEX6 =
 "d7/db9/hill__cipher_8cpp.html#ae66f6b31b5ad750f1fe042a706a4e3d4":[10,0,2,2,1],
 "d7/db9/hill__cipher_8cpp.html#aeff09ac6b8f060c828354394a3189519":[10,0,2,2,2],
 "d7/dba/cll_8h_source.html":[10,0,3,0,0],
-"d7/de0/stack_8h.html":[10,0,3,13]
+"d7/de0/stack_8h.html":[10,0,3,13],
+"d7/de0/stack_8h_source.html":[10,0,3,13]
 };
