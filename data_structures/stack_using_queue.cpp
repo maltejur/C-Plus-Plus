@@ -9,11 +9,12 @@
  * @author [tushar2407](https://github.com/tushar2407)
  */
 #include <cassert>   /// for assert
+#include <cstdint>
 #include <iostream>  /// for IO operations
 #include <queue>     /// for queue data structure
 
 /**
- * @namespace data_strcutres
+ * @namespace data_structures
  * @brief Data structures algorithms
  */
 namespace data_structures {
